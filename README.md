@@ -1,5 +1,5 @@
 # Smart-Lighting-System-Prototype--Basic-IOT-Project-using-NodeMCu-and-ThingSpeak-Cloud
-In this project the LDR sensor checks for the amount of light present in the room and if the LDR value is below the defined threshold value then, it turns on the light.
+In this project the LDR sensor checks for the amount of light present in the room and if the LDR value is below the defined threshold value then, it turns on the light using ThingSpeak Cloud.
 
 Hardware Used:
 1. NodeMCu(ESP8266) WiFi Module
